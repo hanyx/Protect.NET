@@ -1,10 +1,10 @@
-﻿using dnlib.DotNet;
+using dnlib.DotNet;
 using dnlib.DotNet.Emit;
 using System;
 using System.Windows.Forms;
 using Protect.NET.Helpers;
 using System.Collections.Generic;
-
+All project create by Nojdar :D hhhhhhhhhhhhhhhhhhhh
 namespace Protect.NET.Protections
 {
     class Constants : IProtection
